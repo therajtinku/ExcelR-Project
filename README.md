@@ -34,7 +34,7 @@
 The project includes the following pages:
 - Home Page <a href="https://i.imgur.com/WE9Bydv.jpg" target="_blank">![Home Page](https://i.imgur.com/WE9Bydv.jpg)</a>
 
-- Register Page <a href="https://i.imgur.com/cxwekQn.png" target="_blank">![Register Page](https://i.imgur.com/cxwekQn.png)</a>
+- Register Page <a href="https://i.imgur.com/inF7pM6.png" target="_blank">![Register Page](https://i.imgur.com/inF7pM6.png)</a>
 
 - Login Page <a href="https://i.imgur.com/uoghuWe.jpg" target="_blank">![Home Page](https://i.imgur.com/uoghuWe.jpg)</a>
 
