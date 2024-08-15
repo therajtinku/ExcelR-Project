@@ -51,7 +51,7 @@ The project includes the following pages:
 
 - Payment Page ![Payment Page](https://i.imgur.com/mXebOiu.jpg)
 
-- Order Placed Successfully ![Order Page](https://i.imgur.com/CSM5JgC.jpg)
+- Order Confirmed ![Order Page](https://i.imgur.com/LI2qddR.jpg)
 
 - My Orders Page ![My Orders Page](https://i.imgur.com/CSM5JgC.jpg)
 
