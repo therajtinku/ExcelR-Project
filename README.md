@@ -32,7 +32,7 @@
 ## Project Output
 
 The project includes the following pages:
-- [Home Page](https://i.imgur.com/WE9Bydv.jpg)
+- <a href="https://i.imgur.com/WE9Bydv.jpg" target="_blank">![Home Page](https://i.imgur.com/WE9Bydv.jpg)</a>
 - [Register Page](https://i.imgur.com/3tgiahe.jpg)
 - [Login Page](https://i.imgur.com/uoghuWe.jpg)
 - [Admin Dashboard](https://i.imgur.com/J8JYSfa.jpg)
