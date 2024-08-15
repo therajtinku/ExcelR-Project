@@ -35,25 +35,25 @@ The project includes the following pages:
 
 - Home Page ![Home Page](https://i.imgur.com/WE9Bydv.jpg)
 
-- Register Page <a href="https://i.imgur.com/inF7pM6.png" target="_blank">![Register Page](https://i.imgur.com/inF7pM6.png)</a>
+- Register Page ![Register Page](https://i.imgur.com/inF7pM6.png)
 
-- Login Page <a href="https://i.imgur.com/uoghuWe.jpg" target="_blank">![Home Page](https://i.imgur.com/uoghuWe.jpg)</a>
+- Login Page ![Login Page](https://i.imgur.com/uoghuWe.jpg)
 
-- Admin Page <a href="https://i.imgur.com/J8JYSfa.jpg" target="_blank">![Home Page](https://i.imgur.com/J8JYSfa.jpg)</a>
+- Admin Page ![Admin Page](https://i.imgur.com/J8JYSfa.jpg)
 
-- Add Products Page <a href="https://i.imgur.com/p93IYL3.jpg" target="_blank">![Home Page](https://i.imgur.com/p93IYL3.jpg)</a>
+- Add Products Page ![Add Products](https://i.imgur.com/p93IYL3.jpg)
 
-- Product Detail Page <a href="https://i.imgur.com/zMe1cia.jpg" target="_blank">![Home Page](https://i.imgur.com/zMe1cia.jpg)</a>
+- Product Detail Page ![Product Detail](https://i.imgur.com/zMe1cia.jpg)
 
-- Cart Page <a href="https://i.imgur.com/D3WRgzw.jpg" target="_blank">![Home Page](https://i.imgur.com/D3WRgzw.jpg)</a>
+- Cart Page ![Cart Page](https://i.imgur.com/D3WRgzw.jpg)
 
-- Billing Page <a href="https://i.imgur.com/6XnO75l.jpg" target="_blank">![Home Page](https://i.imgur.com/6XnO75l.jpg)</a>
+- Billing Page ![Billing Page](https://i.imgur.com/6XnO75l.jpg)
 
-- Payment Page <a href="https://i.imgur.com/mXebOiu.jpg" target="_blank">![Home Page](https://i.imgur.com/mXebOiu.jpg)</a>
+- Payment Page ![Payment Page](https://i.imgur.com/mXebOiu.jpg)
 
-- Order Placed Page <a href="https://i.imgur.com/CSM5JgC.jpg" target="_blank">![Home Page](https://i.imgur.com/CSM5JgC.jpg)</a>
+- Order Placed Successfully ![Order Page](https://i.imgur.com/CSM5JgC.jpg)
 
-- My Orders Page <a href="https://i.imgur.com/CSM5JgC.jpg" target="_blank">![Home Page](https://i.imgur.com/CSM5JgC.jpg)</a>
+- My Orders Page ![My Orders Page](https://i.imgur.com/CSM5JgC.jpg)
 
 ## Technology Stack
 
