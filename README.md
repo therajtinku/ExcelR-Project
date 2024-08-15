@@ -33,7 +33,7 @@
 
 The project includes the following pages:
 
-- **Home Page** ![Home Page](https://i.imgur.com/6RUoMJQ.png)
+- **Home Page** <br> ![Home Page](https://i.imgur.com/6RUoMJQ.png)
 
 ---
 
