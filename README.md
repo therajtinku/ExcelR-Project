@@ -29,6 +29,20 @@
 - **Order Entity:** Represents customer orders with product details, quantities, prices, shipping information, and order status.
 - **Cart Entity:** Manages the shopping cart for each user, linking to the user and used during checkout.
 
+## Project Output
+
+The project includes the following pages:
+- [Home Page](https://i.imgur.com/WE9Bydv.jpg)
+- [Register Page](https://i.imgur.com/3tgiahe.jpg)
+- [Login Page](https://i.imgur.com/uoghuWe.jpg)
+- [Admin Dashboard](https://i.imgur.com/J8JYSfa.jpg)
+- [Add Products Page](https://i.imgur.com/p93IYL3.jpg)
+- [Product Detail Page](https://i.imgur.com/zMe1cia.jpg)
+- [Cart Page](https://i.imgur.com/D3WRgzw.jpg)
+- [Billing Page](https://i.imgur.com/6XnO75l.jpg)
+- [Payment Page](https://i.imgur.com/mXebOiu.jpg)
+- [Order Placed Page](https://i.imgur.com/CSM5JgC.jpg)
+- [My Orders Page](https://i.imgur.com/CSM5JgC.jpg)
 
 ## Technology Stack
 
