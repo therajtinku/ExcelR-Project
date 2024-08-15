@@ -33,25 +33,45 @@
 
 The project includes the following pages:
 
-- **Home Page** ![Home Page](https://i.imgur.com/6RUoMJQ.png) 
+- **Home Page** ![Home Page](https://i.imgur.com/6RUoMJQ.png)
+
 ---
+
 - **Register Page** ![Register Page](https://i.imgur.com/inF7pM6.png)
+
+---
 
 - **Login Page** ![Login Page](https://i.imgur.com/uoghuWe.jpg)
 
+---
+
 - **Admin Page** ![Admin Page](https://i.imgur.com/J8JYSfa.jpg)
+
+---
 
 - **Add Products Page** ![Add Products](https://i.imgur.com/p93IYL3.jpg)
 
+---
+
 - **Product Detail Page** ![Product Detail](https://i.imgur.com/zMe1cia.jpg)
+
+---
 
 - **Cart Page** ![Cart Page](https://i.imgur.com/D3WRgzw.jpg)
 
+---
+
 - **Billing Page** ![Billing Page](https://i.imgur.com/6XnO75l.jpg)
+
+---
 
 - **Payment Page** ![Payment Page](https://i.imgur.com/mXebOiu.jpg)
 
+---
+
 - **Order Confirmed** ![Order Page](https://i.imgur.com/LI2qddR.jpg)
+
+---
 
 - **My Orders Page** ![My Orders Page](https://i.imgur.com/CSM5JgC.jpg)
 
