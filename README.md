@@ -33,16 +33,16 @@
 
 The project includes the following pages:
 - Home Page <a href="https://i.imgur.com/WE9Bydv.jpg" target="_blank">![Home Page](https://i.imgur.com/WE9Bydv.jpg)</a>
-- [Register Page](https://i.imgur.com/3tgiahe.jpg)
-- [Login Page](https://i.imgur.com/uoghuWe.jpg)
-- [Admin Dashboard](https://i.imgur.com/J8JYSfa.jpg)
-- [Add Products Page](https://i.imgur.com/p93IYL3.jpg)
-- [Product Detail Page](https://i.imgur.com/zMe1cia.jpg)
-- [Cart Page](https://i.imgur.com/D3WRgzw.jpg)
-- [Billing Page](https://i.imgur.com/6XnO75l.jpg)
-- [Payment Page](https://i.imgur.com/mXebOiu.jpg)
-- [Order Placed Page](https://i.imgur.com/CSM5JgC.jpg)
-- [My Orders Page](https://i.imgur.com/CSM5JgC.jpg)
+- Register Page <a href="https://i.imgur.com/3tgiahe.jpg" target="_blank">![Register Page](https://i.imgur.com/3tgiahe.jpg)</a>
+- Login Page <a href="https://i.imgur.com/uoghuWe.jpg" target="_blank">![Home Page](https://i.imgur.com/uoghuWe.jpg)</a>
+- Admin Page <a href="https://i.imgur.com/J8JYSfa.jpg" target="_blank">![Home Page](https://i.imgur.com/J8JYSfa.jpg)</a>
+- Add Products Page <a href="https://i.imgur.com/p93IYL3.jpg" target="_blank">![Home Page](https://i.imgur.com/p93IYL3.jpg)</a>
+- Product Detail Page <a href="https://i.imgur.com/zMe1cia.jpg" target="_blank">![Home Page](https://i.imgur.com/zMe1cia.jpg)</a>
+- Cart Page <a href="https://i.imgur.com/D3WRgzw.jpg" target="_blank">![Home Page](https://i.imgur.com/D3WRgzw.jpg)</a>
+- Billing Page <a href="https://i.imgur.com/6XnO75l.jpg" target="_blank">![Home Page](https://i.imgur.com/6XnO75l.jpg)</a>
+- Payment Page <a href="https://i.imgur.com/mXebOiu.jpg" target="_blank">![Home Page](https://i.imgur.com/mXebOiu.jpg)</a>
+- Order Placed Page <a href="https://i.imgur.com/CSM5JgC.jpg" target="_blank">![Home Page](https://i.imgur.com/CSM5JgC.jpg)</a>
+- My Orders Page <a href="https://i.imgur.com/CSM5JgC.jpg" target="_blank">![Home Page](https://i.imgur.com/CSM5JgC.jpg)</a>
 
 ## Technology Stack
 
