@@ -33,7 +33,7 @@
 
 The project includes the following pages:
 
-- Home Page <a href="https://i.imgur.com/WE9Bydv.jpg" target="_blank">![Home Page](https://i.imgur.com/WE9Bydv.jpg)</a>
+- Home Page ![Home Page](https://i.imgur.com/WE9Bydv.jpg)
 
 - Register Page <a href="https://i.imgur.com/inF7pM6.png" target="_blank">![Register Page](https://i.imgur.com/inF7pM6.png)</a>
 
