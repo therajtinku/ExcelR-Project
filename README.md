@@ -32,7 +32,6 @@
 ## Project Output
 
 The project includes the following pages:
-![Image 1](https://i.imgur.com/WE9Bydv.jpg) ![Image 2](https://i.imgur.com/inF7pM6.png) ![Image 3](https://i.imgur.com/J8JYSfa.jpg)
 
 - Home Page <a href="https://i.imgur.com/WE9Bydv.jpg" target="_blank">![Home Page](https://i.imgur.com/WE9Bydv.jpg)</a>
 
