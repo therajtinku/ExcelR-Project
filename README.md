@@ -33,9 +33,8 @@
 
 The project includes the following pages:
 
-- **Home Page** ![Home Page](https://i.imgur.com/6RUoMJQ.png)
-
-
+- **Home Page** ![Home Page](https://i.imgur.com/6RUoMJQ.png) 
+---
 - **Register Page** ![Register Page](https://i.imgur.com/inF7pM6.png)
 
 - **Login Page** ![Login Page](https://i.imgur.com/uoghuWe.jpg)
